@@ -2,7 +2,11 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Ashwin Yenigalla",
 	"description": "This app does things",
-	"keywords": ["freecodecamp","nodejs","app-building"],
+	"keywords": [
+		"freecodecamp",
+		"nodejs",
+		"app-building"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
